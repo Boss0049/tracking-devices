@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "TrackingLocation",
-    "slug": "TrackingLocation",
+    "name": "tracking-devices",
+    "slug": "tracking-devices",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
